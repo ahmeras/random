@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# CONFIGURATION — EDIT THESE
 USERNAME="rasal"
 # export password first
 if [ -z "${PASSWORD}" ]; then
