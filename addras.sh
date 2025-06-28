@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # CONFIGURATION — EDIT THESE
-USERNAME="myuser"
+USERNAME="rasal"
 # export password first
 if [ -z "${PASSWORD}" ]; then
   echo "password is not set or empty"
